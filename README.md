@@ -7,7 +7,7 @@
 
 
 ###  Sobre mim
-Me chamo **Eduardo Oliveira**, tenho 18 anos, Curso Informática para Internet no IFRN. Estou sempre em busca de aprender coisas novas, criar e me envolver em projetos e evoluir como desenvolvedor.  
+Me chamo **Eduardo Oliveira**, tenho 18 anos, Cursando Informática para Internet no IFRN. Estou sempre em busca de aprender coisas novas, criar e me envolver em projetos e evoluir como desenvolvedor.  
 
 ---
 
