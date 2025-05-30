@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center"> Olá me Chamo Eduardo! </h1>
 
-<!--
-**Edu-oliveira7/Edu-oliveira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Desenvolvedor FullStack</b><br>
+  Muito interessado por tecnologia, ensino e desenvolvimento de software.
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Sobre mim
+Me chamo **Eduardo Oliveira**, tenho 18 anos, Curso Informática para Internet no IFRN. Estou sempre em busca de aprender coisas novas, criar e me envolver em projetos e evoluir como desenvolvedor.  
+
+---
+
+### 🚀 Linguagens e Tecnologias
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+
