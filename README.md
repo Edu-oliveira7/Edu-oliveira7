@@ -17,13 +17,4 @@ Sou apaixonado por <strong>tecnologia</strong> e <strong>desenvolvimento de soft
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
-📊 Estatísticas  
-<p>
-<img align="left" alt="GitHub Stats" height="157"
-src="https://github-readme-stats.vercel.app/api?username=Edu-oliveira7&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"/>
-</p>
-
-<p>
-<img align="left" alt="GitHub Stats" height="157" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-oliveira7&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</p>
 
