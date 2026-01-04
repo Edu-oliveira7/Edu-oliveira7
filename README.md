@@ -2,7 +2,7 @@
 
 <p align="left">
   💻 Desenvolvedor em constante evolução <br>
-  🚀 Focado em Backend, Frontend e UI/UX
+  🚀 Focado em Frontend, React e UI/UX
 </p>
 
 ---
