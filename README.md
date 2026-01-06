@@ -10,13 +10,15 @@
 ## 🔗 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.instagram.com/eduardozw6/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/eduardo-oliveira7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Edu-oliveira7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
 
 ---
 
