@@ -66,14 +66,15 @@ Tenho interesse especial em **desenvolvimento web**, **arquitetura de sistemas**
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-### 🗄️ Banco de Dados & Ferramentas
+### 🛠️ DevOps & Tools
 <p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-800080?style=for-the-badge&logo=figma&logoColor=white"/>
+  
 </p>
-
----
 
 ## 📊 GitHub Stats
 
