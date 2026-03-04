@@ -1,7 +1,7 @@
 <h1 align="left">Eduardo Oliveira</h1>
 
 <p align="left">
-Full Stack Developer | React • Django • Python 
+Full Stack Developer | React • Django • Python <br>
 Construindo aplicações modernas, funcionais e bem estruturadas.
 </p>
 
