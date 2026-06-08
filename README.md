@@ -8,7 +8,7 @@ Construindo projetos reais enquanto busco minha primeira oportunidade na área d
 Atualmente aprofundando conhecimentos em **React** e **Next.js**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-oliveira7)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eduardo-oliveira7.vercel.app)
 
 </div>
 
