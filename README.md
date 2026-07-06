@@ -71,7 +71,7 @@ Atualmente estou em busca da minha primeira oportunidade profissional como Desen
 | **Performance** | Altas pontuações no Lighthouse via minificação de código e compressão de imagens |
 | **Segurança** | Código estático, sem exposição de chaves privadas |
 | **Status** | Concluído |
-| **Repositório** | [Acessar]((https://calangos-marketing.vercel.app/)) |
+| **Repositório** | [Acessar](https://calangos-marketing.vercel.app/) |
 
 </details>
 
