@@ -3,9 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Edu-oliveira7/Edu-oliveira7?style=for-the-badge&color=000000&labelColor=000000" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/Edu-oliveira7/Edu-oliveira7?style=for-the-badge&color=000000&labelColor=000000" alt="Forks" />
-  <img src="https://img.shields.io/github/followers/Edu-oliveira7?style=for-the-badge&color=000000&labelColor=000000" alt="Followers" />
+  <img height="28" src="https://img.shields.io/github/followers/Edu-oliveira7?style=for-the-badge&color=000000&labelColor=000000" />
+  <img height="28" src="https://komarev.com/ghpvc/?username=Edu-oliveira7&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
 </p>
 
 ---
