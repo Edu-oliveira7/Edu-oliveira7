@@ -2,10 +2,7 @@
   <img src="./assets/header.png" width="100%" alt="Banner Edu" />
 </div>
 
-<p align="center">
-  <img height="28" src="https://img.shields.io/github/followers/Edu-oliveira7?style=for-the-badge&color=000000&labelColor=000000" />
-  <img height="28" src="https://komarev.com/ghpvc/?username=Edu-oliveira7&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
-</p>
+<br>
 
 ---
 
