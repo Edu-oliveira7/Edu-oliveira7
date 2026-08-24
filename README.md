@@ -88,6 +88,19 @@ Sistema de gestão de tarefas desenvolvido com uma arquitetura separando fronten
 <br>
 
 
+## 📊 Contribuições
+
+
+<table align="center" border="0">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Edu-oliveira7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=Edu-oliveira7&theme=tokyonight&hide_border=true&fire=FFA500" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -95,18 +108,6 @@ Sistema de gestão de tarefas desenvolvido com uma arquitetura separando fronten
 > — Fabíola Simões
 
 <br>
-
-## 📊 Contribuições
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edu-oliveira7&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-oliveira7&theme=dark" alt="GitHub Streak"/>
-</p>
-
----
 
 
 
